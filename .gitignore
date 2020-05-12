@@ -1,0 +1,7 @@
+*.o
+*.diff
+config.h
+
+.tags
+tabbed
+xembed
